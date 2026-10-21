@@ -1,0 +1,17 @@
+Garagem BR body { margin: 0; font-family: Arial, sans-serif; background: #111; color: white; } <pre><code>header { background: #e10600; padding: 20px; text-align: center; } header h1 { margin: 0; font-size: 32px; } nav { background: #222; padding: 12px; text-align: center; } nav a { color: white; text-decoration: none; margin: 0 10px; } .hero { padding: 40px 20px; text-align: center; } .hero h2 { font-size: 28px; } .cards { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px; } .card { background: #222; border-radius: 12px; padding: 20px; width: 250px; text-align: center; } .card h3 { color: #ff2b2b; } .botao { display: inline-block; background: #e10600; color: white; padding: 12px 20px; border-radius: 8px; text-decoration: none; margin-top: 10px; } footer { margin-top: 30px; padding: 20px; text-align: center; background: #222; } </code></pre> 
+
+🚗 Garagem BR
+
+Carros, projetos e jogos
+
+Início Carros Projetos Jogos 
+
+Bem-vindo à Garagem BR!
+
+Descubra carros, projetos baratos e dicas para jogos de carros.
+
+Ver projetos <div class="card"> <h3>🚘 Carros baratos</h3> <p>Ideias de carros para montar um projeto gastando pouco.</p> <a class="botao" href="#">Ver carros</a> </div> <div class="card"> <h3>🔧 Projetos</h3> <p>Preparações, modificações e ideias para sua garagem.</p> <a class="botao" href="#">Ver projetos</a> </div> <div class="card"> <h3>🎮 Jogos de carros</h3> <p>Dicas, configurações e novidades dos melhores jogos.</p> <a class="botao" href="#">Ver dicas</a> </div> 
+
+© 2026 Garagem BR
+
+Site em desenvolvimento.
